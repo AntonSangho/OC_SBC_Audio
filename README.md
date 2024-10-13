@@ -45,7 +45,7 @@ aplay out.wave
 ```bash
 alsamixer
 ```
-i[alsamixer](https://pimylifeup.com/wp-content/uploads/2020/04/Raspberry-Pi-AlsaMixer-Microphone-settings.png)
+![alsamixer](https://pimylifeup.com/wp-content/uploads/2020/04/Raspberry-Pi-AlsaMixer-Microphone-settings.png)
 
 
 

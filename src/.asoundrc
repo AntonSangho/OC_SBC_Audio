@@ -1,0 +1,11 @@
+pcm.!default {
+    type asym
+    capture.pcm "mic"
+}
+
+pcm.mic {
+    type plug
+    slave  {
+        pcm  "hw:3, 0"  # hw:카드번호,장치번호
+      }
+}
